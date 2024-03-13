@@ -1,0 +1,3 @@
+Add correct capacitors to the the volatage converter near USB.
+Add correct resistance and capacitance to the crytal.
+Add correct parts to the shop list.
